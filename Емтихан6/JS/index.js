@@ -1,0 +1,36 @@
+let SchoolName = {
+    name:"Amjilt",
+    phone:"87776665544",
+    students:[
+        {
+            studentName:"Alikhan",
+            top:"24/6",
+            progress:"85",
+            lesson:"4"
+        },
+        {
+            studentName:"Nurtai",
+            top:"24/4",
+            progress:"88",
+            lesson:"3"
+        },
+        {
+            studentName:"Ansar",
+            top:"24/7",
+            progress:"89",
+            lesson:"3"
+        },
+        {
+            studentName:"Nurbek",
+            top:"24/8",
+            progress:"90",
+            lesson:"2"
+        },
+        {
+            studentName:"Nursultan",
+            top:"24/9",
+            progress:"95",
+            lesson:"2"
+        }
+    ]
+}
